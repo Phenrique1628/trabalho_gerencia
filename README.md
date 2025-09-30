@@ -8,4 +8,4 @@ Para inicializar o projeto é preciso instalar as dependências (npm install) e 
 
 Link do projeto hospeddo no GithubPages: https://phenrique1628.github.io/trabalho_gerencia/
 
-<img width="600" height="1500" src="/public/Captura de tela 2025-09-29 221644.png">
+<img width="1200" height="3000" src="/public/Captura de tela 2025-09-29 221644.png">
