@@ -1,12 +1,11 @@
-import "./main.css"
+import "./assets/main.css"
 import React from "react";
+import Header from "./Header";
 function App() {
 
   return (
     <>
-    <div className="mainText">
-      Produtos gerais versao gamer!
-    </div>
+   <Header/>
   <div className="cards">
     <div className="cardOverall">
       <div className="img">
