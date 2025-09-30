@@ -1,3 +1,6 @@
+Alunos: Pedro Henrique Morão, Felipe Leite e Kaike Eugênio
+
+
 O Projeto consiste em ser um site onde ele apresenta uma coleção de cards.
 
 Cada card possui uma imagem gerada por IA, essas imagens são objetos normais em versões gamers.
