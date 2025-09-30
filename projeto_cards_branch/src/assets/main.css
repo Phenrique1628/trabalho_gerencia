@@ -1,7 +1,3 @@
-/*ja estilizei grande parte, agora faz o resto seu estrume
-SIM, ESTOU FALANDO COM VOCE, LEITE.
-*/
-
 :root{
     --bg: #07111a;
     --panel: rgba(7,17,26,0.66);
@@ -142,7 +138,6 @@ SIM, ESTOU FALANDO COM VOCE, LEITE.
     font-size: 0.9rem;
   }
   
-  /* Responsividade aprimorada */
   @media (min-width: 1200px) {
     .cards {
       grid-template-columns: repeat(4, 1fr);
