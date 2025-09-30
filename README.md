@@ -6,4 +6,6 @@ Criamos o projeto utilizando React Vite e CSS.
 
 Para inicializar o projeto é preciso instalar as dependências (npm install) e utilizar o comando cd projeto_cards_branch para conseguir acessar o projeto.
 
-![Captura de tela](projeto_cards_branch/public/Captura de tela 2025-09-29 221644.png)
+Link do projeto hospeddo no GithubPages: https://phenrique1628.github.io/trabalho_gerencia/
+
+<img width="300" height="600" src="/public/Captura de tela 2025-09-29 221644.png"

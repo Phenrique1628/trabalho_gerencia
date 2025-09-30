@@ -9,7 +9,7 @@ function App() {
   <div className="cards">
     <div className="cardOverall">
       <div className="img">
-      <img src="../public/1.png" alt="1" />
+      <img src="public\1.png" alt="1" />
       </div>
       <div className="name">
       <h2>Camisa Gamer</h2>
@@ -22,7 +22,7 @@ function App() {
     </div>
     <div className="cardOverall">
       <div className="img">
-      <img src="../public/2.png" alt="2" />
+      <img src="public/2.png" alt="2" />
       </div>
       <div className="name">
       <h2>Pá Gamer</h2>
@@ -35,7 +35,7 @@ function App() {
     </div>
     <div className="cardOverall">
       <div className="img">
-      <img src="../public/3.png" alt="3" />
+      <img src="public\3.png" alt="3" />
       </div>
       <div className="name">
       <h2>Ventilador Gamer</h2>
@@ -48,7 +48,7 @@ function App() {
     </div>
     <div className="cardOverall">
       <div className="img">
-      <img src="../public/4.png" alt="4" />
+      <img src="public\4.png" alt="4" />
       </div>
       <div className="name">
       <h2>Carro Gamer</h2>
@@ -61,7 +61,7 @@ function App() {
     </div>
     <div className="cardOverall">
       <div className="img">
-      <img src="../public/5.png" alt="5" />
+      <img src="public\5.png" alt="5" />
       </div>
       <div className="name">
       <h2>Garrafa Gamer</h2>
@@ -74,7 +74,7 @@ function App() {
     </div>
     <div className="cardOverall">
       <div className="img">
-      <img src="../public/6.png" alt="6" />
+      <img src="public\6.png" alt="6" />
       </div>
       <div className="name">
       <h2>Churrasqueira Gamer</h2>
@@ -87,7 +87,7 @@ function App() {
     </div>
     <div className="cardOverall">
       <div className="img">
-      <img src="../public/7.png" alt="7" />
+      <img src="public\7.png" alt="7" />
       </div>
       <div className="name">
       <h2>Violão Gamer</h2>
@@ -100,7 +100,7 @@ function App() {
     </div>
     <div className="cardOverall">
       <div className="img">
-      <img src="../public/8.png" alt="8" />
+      <img src="public\8.png" alt="8" />
       </div>
       <div className="name">
       <h2>Liquidificador Gamer</h2>
