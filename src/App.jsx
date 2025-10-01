@@ -1,11 +1,12 @@
 import "./assets/main.css"
 import React from "react";
 import Header from "./Header";
+import Footer from "./Footer";
 function App() {
 
   return (
     <>
-   <Header/>
+  <Header/>
   <div className="cards">
     <div className="cardOverall">
       <div className="img">
@@ -112,6 +113,7 @@ function App() {
       <div className="price">R$ 119,90</div>
     </div>
   </div>
+  <Footer/>
     </>
   )
 }
