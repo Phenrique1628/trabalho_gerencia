@@ -3,10 +3,10 @@ import React from "react";
 export default function Header() {
 return (
     <div class="Header">
-        <header className="header">
+        <div className="mainText">
         <img className="icon" src="public/icone.png" alt="icone" />
-        <div className="mainText"><h1>Produtos gerais versão gamer!</h1></div>
-        </header>
+            <h1 className="text">Produtos gerais versão gamer!</h1>
+        </div>
     </div>
  )
 }

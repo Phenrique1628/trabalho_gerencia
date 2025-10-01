@@ -1,11 +1,11 @@
 import React from "react";
-import "./footer.css";
+
 
 
 export default function Footer() {
 return (
 <div className="Footer">
-<footer className="footer"></footer>
+<footer className="footer">Feito por Pedro Henrique, Kaike Eugênio e Felipe Leite</footer>
 </div>
 );
 }
