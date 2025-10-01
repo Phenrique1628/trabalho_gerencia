@@ -60,6 +60,14 @@
     background-color: #020024;
     border-radius: 15px;
   }
+
+  .footer{
+    background-color: #020024;
+    border-radius: 15px;
+    padding: 1rem;
+    min-height: 60px; 
+    display: block;
+    }
   
   .cardOverall {
     position: relative;
