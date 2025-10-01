@@ -3,7 +3,7 @@ Alunos: Pedro Henrique Morão, Felipe Leite e Kaike Eugênio
 
 O Projeto consiste em ser um site onde ele apresenta uma coleção de cards.
 
-Cada card possui uma imagem gerada por IA, essas imagens são objetos normais em versões gamers.
+Cada card possui uma imagem gerada pelo ChatGPT, essas imagens são objetos normais em versões gamers.
 
 Criamos o projeto utilizando React Vite e CSS.
 
