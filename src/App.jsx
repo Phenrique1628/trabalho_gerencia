@@ -2,6 +2,15 @@ import "./assets/main.css"
 import React from "react";
 import Header from "./Header";
 import Footer from "./Footer";
+import image1 from "/1.png"
+import image2 from "/2.png"
+import image3 from "/3.png"
+import image4 from "/4.png"
+import image5 from "/5.png"
+import image6 from "/6.png"
+import image7 from "/7.png"
+import image8 from "/8.png"
+
 function App() {
 
   return (
@@ -10,7 +19,7 @@ function App() {
   <div className="cards">
     <div className="cardOverall">
       <div className="img">
-      <img src="public\1.png" alt="1" />
+      <img src={image1} alt="1" />
       </div>
       <div className="name">
       <h2>Camisa Gamer</h2>
@@ -23,7 +32,7 @@ function App() {
     </div>
     <div className="cardOverall">
       <div className="img">
-      <img src="public/2.png" alt="2" />
+      <img src={image2} alt="2" />
       </div>
       <div className="name">
       <h2>Pá Gamer</h2>
@@ -36,7 +45,7 @@ function App() {
     </div>
     <div className="cardOverall">
       <div className="img">
-      <img src="public\3.png" alt="3" />
+      <img src={image3} alt="3" />
       </div>
       <div className="name">
       <h2>Ventilador Gamer</h2>
@@ -49,7 +58,7 @@ function App() {
     </div>
     <div className="cardOverall">
       <div className="img">
-      <img src="public\4.png" alt="4" />
+      <img src={image4} alt="4" />
       </div>
       <div className="name">
       <h2>Carro Gamer</h2>
@@ -62,7 +71,7 @@ function App() {
     </div>
     <div className="cardOverall">
       <div className="img">
-      <img src="public\5.png" alt="5" />
+      <img src={image5} alt="5" />
       </div>
       <div className="name">
       <h2>Garrafa Gamer</h2>
@@ -75,7 +84,7 @@ function App() {
     </div>
     <div className="cardOverall">
       <div className="img">
-      <img src="public\6.png" alt="6" />
+      <img src={image6} alt="6" />
       </div>
       <div className="name">
       <h2>Churrasqueira Gamer</h2>
@@ -88,7 +97,7 @@ function App() {
     </div>
     <div className="cardOverall">
       <div className="img">
-      <img src="public\7.png" alt="7" />
+      <img src={image7} alt="7" />
       </div>
       <div className="name">
       <h2>Violão Gamer</h2>
@@ -101,7 +110,7 @@ function App() {
     </div>
     <div className="cardOverall">
       <div className="img">
-      <img src="public\8.png" alt="8" />
+      <img src={image8} alt="8" />
       </div>
       <div className="name">
       <h2>Liquidificador Gamer</h2>
